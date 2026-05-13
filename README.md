@@ -8,8 +8,8 @@ import java.Scanner;
 
 public class Main{
   public static void main(String[]args){
-    String[] order= {""};
-    double[] total= {0.0};
+    String[] order= ("");
+    double[] total= (0.0);
     JFrame frame= new JFrame("Coffee Shop");
     JPanel panel= new JPanel(new GridLayout(8,1,5,5));
     
